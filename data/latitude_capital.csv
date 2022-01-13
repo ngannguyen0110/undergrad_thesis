@@ -1,0 +1,116 @@
+Country,ISO_Code,primary_capital_name,lat
+Afghanistan,AFG,K?bul,34.5167
+Albania,ALB,Tiran‰,41.3275
+Algeria,DZA,Alger,36.7631
+Angola,AGO,Luanda,-8.8383
+Argentina,ARG,"Buenos Aires, Ciudad Aut¢noma de",-34.6025
+Armenia,ARM,Yerevan,40.1812
+Azerbaijan,AZE,Bak?,40.3953
+Bangladesh,BGD,Dhaka,23.7231
+Barbados,BRB,Saint Michael,13.102
+Belarus,BLR,Minsk,53.9
+Belize,BLZ,Cayo,17.252
+Benin,BEN,Littoral,6.4
+Bhutan,BTN,Thimphu,27.473
+Bolivia,BOL,La Paz,-16.498
+Bosnia Herzegovina,BIH,"Bosnia and Herzegovina, Federation of",43.85
+Botswana,BWA,Gaborone,-24.6463
+Brazil,BRA,Distrito Federal,-15.7833
+Burkina Faso,BFA,Centre,12.3703
+Burundi,BDI,Bujumbura Mairie,-3.3761
+Cambodia,KHM,Phnom Penh,11.55
+Cameroon,CMR,Centre,3.8667
+Central African Republic CAR,CAF,Bangui,4.3666
+Chad,TCD,Ville de N?Djam‚na,12.1131
+Chili,CHL,Regi¢n Metropolitana,-33.45
+China,CHN,Beijing,39.9289
+Colombia,COL,Bogot ,4.5964
+Comoros,COM,Grande Comore,-11.7042
+Congo Brazzaville,COG,Brazzaville,-4.2592
+Congo Democratic Republic,COD,Kinshasa,-4.3297
+Costa Rica,CRI,San Jos‚,9.935
+Cote d'Ivoire,CIV,Abidjan,5.32
+Cuba,CUB,La Habana,23.132
+Djibouti,DJI,Djibouti,11.595
+Egypt,EGY,Al Q?hirah,30.05
+El Salvador,SLV,San Salvador,13.71
+Eritrea,ERI,Ma??kel,15.3333
+Eswatini,SWZ,Hhohho,-26.3167
+Ethiopia,ETH,?d?s ?beba,9.0333
+Gabon,GAB,Estuaire,0.3854
+Gambia,GMB,Banjul,13.4539
+Georgia,GEO,Tbilisi,41.725
+Ghana,GHA,Greater Accra,5.55
+Guatemala,GTM,Guatemala,14.6211
+Guinea,GIN,Conakry,9.5315
+Guinea Bissau,GNB,Bissau,11.865
+Guyana,GUY,Demerara-Mahaica,6.802
+Haiti,HTI,Ouest,18.541
+Honduras,HND,Francisco Moraz n,14.102
+India,IND,Delhi,28.6
+Indonesia,IDN,Jakarta,-6.1744
+Iran,IRN,Tehr?n,35.6719
+Iraq,IRQ,Baghd?d,33.3386
+Jamaica,JAM,Kingston,17.9771
+Jordan,JOR,Al ???imah,31.95
+Kazakhstan,KAZ,Astana,51.1811
+Kenya,KEN,Nairobi City,-1.2833
+Kosovo,XKX,Prishtin‰,42.6666
+Kyrgyzstan,KGZ,Bishkek,42.8731
+Lao,LAO,Viangchan,17.9667
+Lesotho,LSO,Maseru,-29.3167
+Liberia,LBR,Montserrado,6.3106
+Madagascar,MDG,Antananarivo,-18.9166
+Malawi,MWI,Lilongwe,-13.9833
+Maldives,MDV,Maale,4.1667
+Mali,MLI,Bamako,12.65
+Mauritania,MRT,0,18.0864
+Mexico,MEX,Ciudad de M‚xico,19.4424
+Moldova,MDA,Chi?in?u,47.005
+Mongolia,MNG,Ulaanbaatar,47.9167
+Monte Negro,MNE,Podgorica,42.466
+Morocco,MAR,Rabat-Sal‚-K‚nitra,34.0253
+Mozambique,MOZ,Maputo,-25.9553
+Myanmar,MMR,Yangon,16.7834
+Namibia,NAM,Khomas,-22.57
+Nepal,NPL,B?gmat?,27.7167
+Niger,NER,Niamey,13.5167
+Nigeria,NGA,Federal Capital Territory,9.0833
+North Macedonia,MKD,Skopje,42
+Pakistan,PAK,Isl?m?b?d,33.7
+Palestine,PSE,#N/A,#N/A
+Panama,PAN,Panam ,8.968
+Papua New Guinea,PNG,National Capital,-9.4647
+Paraguay,PRY,Asunci¢n,-25.2964
+Peru,PER,Lima,-12.048
+Philippines,PHL,Manila,14.6042
+Qatar,QAT,Ad Daw?ah,25.2866
+Rwanda,RWA,Kigali,-1.9536
+Saint Lucia,LCA,Castries,14.002
+Sao Tome & Principe,STP,S?o Tom‚,0.3334
+Senegal,SEN,Dakar,14.7158
+Serbia,SRB,Beograd,44.8186
+Sierra Leone,SLE,Western Area,8.47
+Somalia,SOM,Banaadir,2.0667
+South Africa,ZAF,Western Cape,-33.92
+South Sudan,SSD,Central Equatoria,4.83
+Sudan,SDN,Khartoum,15.5881
+Suriname,SUR,Paramaribo,5.835
+Tajikistan,TJK,Dushanbe,38.56
+Tanzania,TZA,Dar es Salaam,-6.8
+Thailand,THA,Krung Thep Maha Nakhon,13.75
+Timor Leste,TLS,D¡li,-8.5594
+Togo,TGO,Maritime,6.1319
+Trinidad & Tobago,TTO,Port of Spain,10.652
+Tunisia,TUN,Tunis,36.8028
+Turkey,TUR,Ankara,39.9272
+Turkmenistan,TKM,0,37.95
+Uganda,UGA,Kampala,0.3167
+Ukraine,UKR,"Kyyiv, Misto",50.4334
+Uruguay,URY,Montevideo,-34.858
+Uzbekistan,UZB,Toshkent,41.3117
+Vanuatu,VUT,Shefa,-17.7334
+Vietnam,VNM,Hanoi,21.0333
+Yemen,YEM,Am?nat al ???imah,15.3547
+Zambia,ZMB,Lusaka,-15.4166
+Zimbabwe,ZWE,Harare,-17.8178
